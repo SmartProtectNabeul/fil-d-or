@@ -40,7 +40,26 @@ const images = [
   "657938767_122102476928984342_209777545773442935_n.webp",
   "658142209_122102481254984342_620844770412471208_n.webp",
   "658356679_122102487416984342_1076509861048376448_n.webp",
-  "658367171_122102479592984342_3637093294807060571_n.webp"
+  "658367171_122102479592984342_3637093294807060571_n.webp",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.09.jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.10 (1).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.10 (2).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.10 (3).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.10 (4).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.10.jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11 (1).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11 (2).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11 (3).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11 (4).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11 (5).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.11.jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12 (1).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12 (2).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12 (3).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12 (4).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12 (5).jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.12.jpeg",
+  "newim26/WhatsApp Image 2026-04-26 at 18.50.13.jpeg"
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
